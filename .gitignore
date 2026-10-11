@@ -1,0 +1,11 @@
+# Virtual environment (installed libraries, can be rebuilt)
+.venv/
+
+# Jupyter auto-save copies
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+
+# macOS folder settings
+.DS_Store
